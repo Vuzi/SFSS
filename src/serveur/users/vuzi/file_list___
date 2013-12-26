@@ -1,0 +1,11 @@
+{"type":"folder_list","list":{
+
+"file":{"ID":"id_test5f","value":"val_test","info":{"name":"nom","root":"C:/Dropbox/drop/root","size":12,"last_modif":1376075778}}
+
+{type:connect,data:{login:vuzi,pass:pass}}
+
+{type:change_option,data:{add_ip:192.168.0.1}}
+
+{type:add_file,data:{"file":{"ID":"id_test","value":"val_test","info":{"name":"nom","root":"C:/Dropbox/drop/root","size":12,"last_modif":1376075778}}}}
+
+,"file":{"ID":"b1a5948b6c3dfcddefdf675e5e21ac7e","value":"5fc8200cafcbdcc4ac64b016089ec530","info":{"name":"JsonToFolderStruct.c","root":"C:/Dropbox/drop/test","size":3637,"last_modif":1376090577}},"file":{"ID":"d84a8d22116ad6b18d0fc2b9facb9c66","value":"9e3ca5c082cc016f62273f1e87b53527","info":{"name":"test - Copie.txt","root":"C:/Dropbox/drop/test/lélé","size":7,"last_modif":1376156869}},"file":{"ID":"b0aec13cd24afe555e29bc2260c29ecd","value":"9e3ca5c082cc016f62273f1e87b53527","info":{"name":"test - Copie.txt","root":"C:/Dropbox/drop/test","size":7,"last_modif":1376156869}},"file":{"ID":"4a5ee61114bb9740b062573f0fbd6cfe","value":"49de0d944b57dbba8b80b98374a0a8e5","info":{"name":"test.txt","root":"C:/Dropbox/drop/test","size":7,"last_modif":1376156869}}}}

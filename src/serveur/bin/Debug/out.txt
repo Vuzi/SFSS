@@ -1,0 +1,1198 @@
+
+[Info.] 09-09-13 16:06:37 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Warn.] [Ouv. fichier log] Impossible d'ouvrir le fichier de log de l'utilisateur 'vuzi'
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Ajout fich.] Un utilisateur demande une modification de fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Demande Modif. fich.] Fichier modifie en attente, attente du fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Telech. fich.] Fichier '/Notes.xlsx' charge (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Telech. fich.] Fichier '/Notes.xlsx' enregistre (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Sauv. compte] Lancement sauvegarde liste fichier compte 'vuzi'
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [JSON to file] Lancement ecriture JSON dans fichier 'users/vuzi/file_list'
+[Debug] [JSON to file] Fin de l'ecriture
+[Debug] [Sauv. compte] Fin sauvegarde liste fichier compte 'vuzi'
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] 09-09-13 16:25:11 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Ajout fich.] Un utilisateur demande un ajout de fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Demande Ajout fich.] Fichier ajoute en attente, attente du fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Telech. fich.] Fichier '/POSTAL 2 Complete.url' charge (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Telech. fich.] Fichier '/POSTAL 2 Complete.url' enregistre (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Sauv. compte] Lancement sauvegarde liste fichier compte 'vuzi'
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [JSON to file] Lancement ecriture JSON dans fichier 'users/vuzi/file_list'
+[Debug] [JSON to file] Fin de l'ecriture
+[Debug] [Sauv. compte] Fin sauvegarde liste fichier compte 'vuzi'
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Info.] 09-09-13 16:29:40 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Supp. fich.] Un utilisateur demande une suppression de fichier (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Sauv. compte] Lancement sauvegarde liste fichier compte 'vuzi'
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [JSON to file] Lancement ecriture JSON dans fichier 'users/vuzi/file_list'
+[Debug] [JSON to file] Fin de l'ecriture
+[Debug] [Sauv. compte] Fin sauvegarde liste fichier compte 'vuzi'
+[Info.] [Demande Supp. fich.] Fichier correctement supprime (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Ajout fich.] Un utilisateur demande un ajout de fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Demande Ajout fich.] Fichier ajoute en attente, attente du fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Telech. fich.] Fichier '/POSTAL 2 Complete.url' charge (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Telech. fich.] Fichier '/POSTAL 2 Complete.url' enregistre (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Sauv. compte] Lancement sauvegarde liste fichier compte 'vuzi'
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [JSON to file] Lancement ecriture JSON dans fichier 'users/vuzi/file_list'
+[Debug] [JSON to file] Fin de l'ecriture
+[Debug] [Sauv. compte] Fin sauvegarde liste fichier compte 'vuzi'
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Info.] 10-09-13 03:01:18 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Compte deja charge (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Info.] 10-09-13 17:32:25 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Compte deja charge (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '192.168.1.7')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Compte deja charge (compte 'vuzi' | ip '192.168.1.7')
+[Warn.] [Conn. User] Ip non autorisee (compte 'vuzi' | ip '192.168.1.7')
+[Warn.] [Serveur] Echec de la connexion (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login '--')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '192.168.1.7' | login '--')
+[Info.] 10-09-13 17:40:51 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '192.168.1.7')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '192.168.1.7')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '192.168.1.7')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '192.168.1.7')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Compte deja charge (compte 'vuzi' | ip '192.168.1.7')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '192.168.1.7' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/bd5c963a4458393e6bf8380e837c1eb4' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Error] [Erreur socket] send() : '10054' de WSA
+[Info.] 10-09-13 17:44:12 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '192.168.1.7')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Compte deja charge (compte 'vuzi' | ip '192.168.1.7')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '192.168.1.7' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/bd5c963a4458393e6bf8380e837c1eb4' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/47384a2485f82ba716ba798f3ba119d0' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/3f4cec3a5f7fb674aee8734dda8e768f' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '192.168.1.7')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Compte deja charge (compte 'vuzi' | ip '192.168.1.7')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '192.168.1.7' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/bd5c963a4458393e6bf8380e837c1eb4' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/47384a2485f82ba716ba798f3ba119d0' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/3f4cec3a5f7fb674aee8734dda8e768f' effectue
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '192.168.1.7' | login 'vuzi')
+[Info.] 10-09-13 19:09:31 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Warn.] [Charg. liste fichier] Aucune liste, creation d'une liste vierge ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Ajout fich.] Un utilisateur demande un ajout de fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Demande Ajout fich.] Fichier ajoute en attente, attente du fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Telech. fich.] Fichier '/Notes.xlsx' charge (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Telech. fich.] Fichier '/Notes.xlsx' enregistre (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Sauv. compte] Lancement sauvegarde liste fichier compte 'vuzi'
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [JSON to file] Lancement ecriture JSON dans fichier 'users/vuzi/file_list'
+[Debug] [JSON to file] Fin de l'ecriture
+[Debug] [Sauv. compte] Fin sauvegarde liste fichier compte 'vuzi'
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Ajout fich.] Un utilisateur demande un ajout de fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Demande Ajout fich.] Fichier ajoute en attente, attente du fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Telech. fich.] Fichier '/POSTAL 2 Complete.url' charge (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Telech. fich.] Fichier '/POSTAL 2 Complete.url' enregistre (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Sauv. compte] Lancement sauvegarde liste fichier compte 'vuzi'
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [JSON to file] Lancement ecriture JSON dans fichier 'users/vuzi/file_list'
+[Debug] [JSON to file] Fin de l'ecriture
+[Debug] [Sauv. compte] Fin sauvegarde liste fichier compte 'vuzi'
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Ajout fich.] Un utilisateur demande un ajout de fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Demande Ajout fich.] Fichier ajoute en attente, attente du fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Telech. fich.] Fichier '/putty.exe' charge (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Telech. fich.] Fichier '/putty.exe' enregistre (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Sauv. compte] Lancement sauvegarde liste fichier compte 'vuzi'
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [JSON to file] Lancement ecriture JSON dans fichier 'users/vuzi/file_list'
+[Debug] [JSON to file] Fin de l'ecriture
+[Debug] [Sauv. compte] Fin sauvegarde liste fichier compte 'vuzi'
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] 10-09-13 19:13:39 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] 10-09-13 19:49:31 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '192.168.1.7')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Compte deja charge (compte 'vuzi' | ip '192.168.1.7')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '192.168.1.7')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Compte deja charge (compte 'vuzi' | ip '192.168.1.7')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '192.168.1.7' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/bd5c963a4458393e6bf8380e837c1eb4' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/3f4cec3a5f7fb674aee8734dda8e768f' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Error] [Erreur socket] send() : '10054' de WSA
+[Info.] 10-09-13 19:52:21 - Debut log
+[Info.] [Lanc. serveur] Initialisation du serveur...terminee
+[Info.] [Lanc. serveur] Serveur en mode ecoute
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '127.0.0.1')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Chargement du compte (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Conn. User] Chargement compte termine (compte 'vuzi' | ip '127.0.0.1')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Serveur] Nouveau client detecte
+[Info.] [Serveur] Nouveau client ajoute ( ip '192.168.1.7')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login '--')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Conn. User] Compte deja charge (compte 'vuzi' | ip '192.168.1.7')
+[Debug] [Charg. liste fichier] Chargement liste des fichiers ( login : 'vuzi')
+[Debug] [File to Json] Lancement recuperation fichier 'users/vuzi/file_list'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Debug] [Charg. liste fichier] Chargement liste des fichiers termine ( login : 'vuzi')
+[Info.] [Serveur] Connexion effective (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '192.168.1.7' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/bd5c963a4458393e6bf8380e837c1eb4' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/3f4cec3a5f7fb674aee8734dda8e768f' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/47384a2485f82ba716ba798f3ba119d0' effectue
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '192.168.1.7' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Ajout fich.] Un utilisateur demande un ajout de fichier (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Demande Ajout fich.] Fichier ajoute en attente, attente du fichier (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Ajout fich.] Un utilisateur demande un ajout de fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Demande Ajout fich.] Fichier ajoute en attente, attente du fichier (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Telech. fich.] Fichier '/account_info' charge (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Telech. fich.] Fichier '/account_info' enregistre (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Sauv. compte] Lancement sauvegarde liste fichier compte 'vuzi'
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [JSON to file] Lancement ecriture JSON dans fichier 'users/vuzi/file_list'
+[Debug] [JSON to file] Fin de l'ecriture
+[Debug] [Sauv. compte] Fin sauvegarde liste fichier compte 'vuzi'
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '192.168.1.7' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '192.168.1.7' | login 'vuzi')
+[Warn.] [Telech. fich.] Erreur lors du chargement du fichier '/account_info' (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '127.0.0.1' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande fich.] Un utilisateur demande un fichier (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Demande fich.] Debut envoit du fichier (ip '127.0.0.1' | login 'vuzi')
+[Debug] [Envoit Fic.] Envoit fichier 'users/vuzi/files/0b617ed03a15ade7ea2421b3ce0309e9' effectue
+[Info.] [Serveur] Message client (ip '127.0.0.1' | login 'vuzi')
+[Error] [Erreur socket] recv() : '10054' de WSA
+[Info.] [Serveur] Deconnexion client (ip '127.0.0.1' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Supp. fich.] Un utilisateur demande une suppression de fichier (ip '192.168.1.7' | login 'vuzi')
+[Warn.] [Demande Supp. fich.] Le fichier est en cours d'operation par un autre utilisateur (ip '192.168.1.7' | login 'vuzi')
+[Info.] [Serveur] Message client (ip '192.168.1.7' | login 'vuzi')
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Info.] [Demande Liste fic.] Un utilisateur demande la liste des fichiers (ip '192.168.1.7' | login 'vuzi')
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [Demande Liste fic.] Liste envoyee (ip '192.168.1.7' | login 'vuzi')

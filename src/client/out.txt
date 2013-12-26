@@ -1,0 +1,43 @@
+
+[Info.] 10-09-13 03:04:46 - Debut log
+[Debug] [Chargement compte] Lancement chargement compte
+[Debug] [File to Json] Lancement recuperation fichier 'account_info'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Info.] [Conn. serveur] Initialisation connexion...terminee
+[Info.] [Conn. serveur] Connexion effective
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Rcp. Message] Message favorable du serveur : 'Connexion réussie'
+[Info.] [Connexion] Authentification effective : 'Connexion réussie'
+[Debug] [File to Json] Lancement recuperation fichier 'filelist'
+[Debug] [File to Json] Fin recuperation
+[Debug] [File to Json] Lancement conversion en JSON
+[Debug] [File to Json] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Info.] [Maj Fichiers] Lancement mise a jour liste locale
+[Debug] [File. listing] Debut du listing du dossier 'C:/Users/Vuzi/Desktop/test_folder'
+[Debug] [File. listing] Fin du listing du dossier 'C:/Users/Vuzi/Desktop/test_folder'
+[Debug] [Comp. FileList] Lancement de la comparaison
+[Debug] [Comp. FileList] Comparaison terminee
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [JSON to file] Lancement ecriture JSON dans fichier 'filelist'
+[Debug] [JSON to file] Fin de l'ecriture
+[Info.] [Maj Fichiers] Fin mise a jour liste locale
+[Info.] [Maj Fichiers] Lancement de la mise a jour online
+[Info.] [Char. Liste] Lancement recuperation de la liste de fichier depuis le serveur
+[Debug] [Json to Msg] Lancement de la conversion
+[Debug] [Json to Msg] Conversion terminee
+[Debug] [Json to FolderStruct] Lancement de la conversion
+[Debug] [Json to FolderStruct] Conversion terminee
+[Info.] [Char. Liste] Recuperation de la liste de fichier depuis le serveur terminee
+[Debug] [Comp. FileList] Lancement de la comparaison
+[Debug] [Comp. FileList] Comparaison terminee
+[Debug] [FileList to JSON] Debut de la conversion
+[Debug] [FileList to JSON] Fin de la conversion
+[Debug] [JSON to file] Lancement ecriture JSON dans fichier 'filelist'
+[Debug] [JSON to file] Fin de l'ecriture
+[Info.] [Maj Fichiers] Fin de la mise a jour online

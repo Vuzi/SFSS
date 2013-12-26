@@ -1,0 +1,11 @@
+> Client
+	account_info : contient les informations pour se connecter au serveur. Ces infos sont lues et envoyées.
+	filelist : contient la liste des fichiers au dernier lancement du serveur. Le client se sert de cette liste pour définir si des fichiers ont été supprimés ou bien s'il n'ont simplement pas été synchronisés.
+	out.txt : contient le log du dernier lancement du programme.
+
+> Serveur
+	/users : contient la liste des utilisateur (Un dossier par utilisateur existant).
+	/users/<login>/info : contient les informations de l'utilisateur, comme ses identifiants mais également les ip d'où il peut se connecter et d'autres informations de compte.
+	/users/<login>/file_list : contient la liste des fichiers synchronisés.
+	/users/<login>/files/ : contient les fichiers synchronisés.
+	out.txt : contient le log du dernier lancement du programme.

@@ -1,0 +1,14 @@
+{
+	"type":"account",
+	"login":"vuzi",
+	"pass":"pass",
+	"options":{
+		"multi_user":10,
+		"max_size":100024
+	},
+	"ip_list":{
+		"ip":"127.0.0.1",
+		"ip":"192.168.0.2",
+		"ip":"192.168.0.1"
+	}
+}

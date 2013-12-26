@@ -1,0 +1,9 @@
+{
+	"type":"account_info",
+	"login":"vuzi",
+	"pass":"pass",
+	"check_interv":30,
+	"check_folder":"C:/Users/Vuzi/Desktop/test_folder",
+	"serv_addr":"192.168.1.1",
+	"serv_port":1992
+}

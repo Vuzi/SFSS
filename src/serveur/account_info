@@ -1,0 +1,7 @@
+{
+	"type":"account_info",
+	"login":"vuzi",
+	"pass":"pass",
+	"serv_addr":"127.0.0.1",
+	"serv_port":1992
+}

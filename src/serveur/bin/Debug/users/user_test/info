@@ -1,0 +1,11 @@
+{
+	type:account,
+	login:user_test,
+	pass:test,
+	options:{
+		multi_user:1
+	}
+	ip:{
+		ip:"127.0.0.1"
+	}
+}
