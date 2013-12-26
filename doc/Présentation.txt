@@ -1,11 +1,26 @@
-Ce projet avait pour but de créer deux programmes, un client et un serveur, permettant de garder synchronisé des fichiers. Il s'agit ici dans l'esprit d'avoir un fonctionnement plus proche de celui d'un Dropbox que d'un git. Le versionning des fichiers s'effectue donc ici simplement en se basant sur leur date de modification, et non pas sur leur contenu.
+Ce projet avait pour but de créer deux programmes, un client et un serveur, permettant de garder synchronisé des fichiers. 
+Il s'agit ici dans l'esprit d'avoir un fonctionnement plus proche de celui d'un Dropbox que d'un git. Le versionning des 
+fichiers s'effectue donc ici simplement en se basant sur leur date de modification, et non pas sur leur contenu.
 
-Le client suit un cheminement relativement simple. Il commence par se connecter au serveur, puis télécharge la liste à jour des fichiers synchronisés par le serveur. Il analyse ensuite le dossier qu'il doit maintenir synchronisé, afin d'obtenir une seconde liste. Le client compare alors ces deux listes, et en génère une troisième contenant les fichiers à envoyer, à supprimer et à modifier. Il envoi ensuite les requêtes appropriées au serveur, qui les traite.
+Le client suit un cheminement relativement simple. Il commence par se connecter au serveur, puis télécharge la liste à 
+jour des fichiers synchronisés par le serveur. Il analyse ensuite le dossier qu'il doit maintenir synchronisé, afin 
+d'obtenir une seconde liste. Le client compare alors ces deux listes, et en génère une troisième contenant les fichiers 
+à envoyer, à supprimer et à modifier. Il envoi ensuite les requêtes appropriées au serveur, qui les traite.
 
-Le serveur attend simplement que des demandes de connexions soient effectuées. Lorsqu'une nouvelle demande est effectuée, le client est ajouté à une liste, puis après avoir envoyé ses informations de connexion et que le serveur les ait approuvé, le client est ajouté à la liste des clients connectés, et peut envoyer différents types de demande au serveur (Téléchargement d'un fichier, téléchargement de la liste de fichier, suppression, etc...).
+Le serveur attend simplement que des demandes de connexions soient effectuées. Lorsqu'une nouvelle demande est effectuée, 
+le client est ajouté à une liste, puis après avoir envoyé ses informations de connexion et que le serveur les ait approuvé,
+le client est ajouté à la liste des clients connectés, et peut envoyer différents types de demande au serveur 
+(Téléchargement d'un fichier, téléchargement de la liste de fichier, suppression, etc...).
 
-L’ensemble du dialogue s'effectue en JSON, ce qui à permis de tester le programme directement via telnet lors de son développement. La formation des messages suit également une logique, et permet donc de suivre un traitement unifié quelque soit le type de message (A part les téléchargement et upload de fichiers). La connexion n'est pas cryptée, par manque de temps et de moyen, les mots de passe et informations circulent donc malheureusement en clair sur le réseau.
+L’ensemble du dialogue s'effectue en JSON, ce qui à permis de tester le programme directement via telnet lors de son 
+développement. La formation des messages suit également une logique, et permet donc de suivre un traitement unifié 
+quelque soit le type de message (A part les téléchargement et upload de fichiers). La connexion n'est pas cryptée,
+par manque de temps et de moyen, les mots de passe et informations circulent donc malheureusement en clair sur le réseau.
 
-Le développement de ce programme est arrêté. Le système de synchronisation entre le serveur et le client (Et tout ce que cela implique) est fonctionnel et testé, mais le lancement des demandes de mise à jour du côté client doivent encore être effectuées à la main. Enfin, le programme n'a pas été convenablement débugé, ni même optimisé.
+Le développement de ce programme est arrêté. Le système de synchronisation entre le serveur et le client (Et tout ce 
+que cela implique) est fonctionnel et testé, mais le lancement des demandes de mise à jour du côté client doivent 
+encore être effectuées à la main. Enfin, le programme n'a pas été convenablement débugé, ni même optimisé.
 
-Il s'agissait avant tout d'essayer de réaliser par moi même une véritable application utilisant le réseau en C pour une raison pratique. Le programme est codé pour être compatible sur Linux et Windows, et peut bien sur fonctionner entre un serveur et un client de système d'exploitations différents.
+Il s'agissait avant tout d'essayer de réaliser par moi même une véritable application utilisant le réseau en C pour 
+une raison pratique. Le programme est codé pour être compatible sur Linux et Windows, et peut bien sur fonctionner 
+entre un serveur et un client de système d'exploitations différents.
