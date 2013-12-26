@@ -1,4 +1,4 @@
-              SFSS
+SFSS
 =================================
 
 Simple File Synchronization System
